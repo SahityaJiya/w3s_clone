@@ -1,0 +1,19 @@
+{
+  "name": "learning_website",
+  "version": "1.0.1",
+  "description": "programming knopwledge resources are avaible here!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahityaJiya/w3s_clone.git"
+  },
+  "author": "Sahitya Jiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahityaJiya/w3s_clone/issues"
+  },
+  "homepage": "https://github.com/SahityaJiya/w3s_clone#readme"
+}
